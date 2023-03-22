@@ -1,6 +1,1 @@
-#website
-
-this is the test run for my first website as well as my first github
-
-##subheading
-okay imn on gits now
+RIP OLUBUSADE OLAMILEKAN. i will have build you the best website in the world for copywriting 
